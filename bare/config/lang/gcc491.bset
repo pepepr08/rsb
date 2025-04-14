@@ -19,7 +19,7 @@ package: gcc491-%{_target}-%{_host}-%{release}
 #
 # Tool configuration.
 #
-devel/expat-2.1.0-1
+devel/expat-2.5.0-1
 devel/binutils-2.24-1
 devel/gcc-4.9.1-newlib-2.1.0-1
 devel/gdb-7.7-1

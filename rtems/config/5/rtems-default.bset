@@ -14,7 +14,7 @@
 # GDB needs expat so it needs to be built before.
 #
 
-devel/expat-2.1.0-1
+devel/expat-2.5.0-1
 tools/rtems-gdb-14.2
 
 tools/rtems-binutils-2.34
